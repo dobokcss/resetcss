@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+/**
+    Reset v1.2 | (c) 2010 - 2014
+    Estefanio NS <estefanions AT gmail DOT com>
+    http://estefanions.github.io/resetcss/
+ */
+*{text-align:left;font-weight:400;font-size:100%;list-style:none;text-decoration:none;outline:0;margin:0;padding:0;border:0;font-style:normal;vertical-align:top;background:0 0}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}article,aside,details,figcaption,figure,footer,header,hgroup,hr,main,menu,nav,section,summary{display:block}audio,canvas,video{display:inline-block}hr{height:1px;border-top:1px solid;margin:1em 0}input,select,textarea{vertical-align:middle}button,input{line-height:normal}button,html input[type=button],input[type=reset],input[type=submit]{cursor:pointer;-webkit-appearance:button}button,input[type=button],input[type=checkbox],input[type=radio],input[type=reset],input[type=submit],select{cursor:pointer}input[type=search]{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;-webkit-appearance:textfield}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input[type=checkbox],input[type=radio]{box-sizing:border-box}textarea{overflow:auto;vertical-align:top}
